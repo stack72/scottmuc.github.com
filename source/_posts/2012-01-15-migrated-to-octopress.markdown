@@ -42,6 +42,8 @@ an individual post which made this element of the migration super easy. Every bl
 get this live and sort out issues right away before everything is migrated. Also, it's a way to motivate me to get
 everything into the new blog ASAP.
 4. Added a custom [404](http://scottmuc.com/non-existent-page/) to guide those who want to see non-migrated content to the old blog.
+5. Added "scottmuc.com" to my CNAME file. I followed the instructions [here](https://github.com/blog/315-cname-support-for-github-pages). Note that this is enabled for non-paying users now! I use [gandi.net](http://gandi.net/) for my DNS and updating the A record and CNAME (for www) was a snap.
+
 
 ### Other Stuff
 
