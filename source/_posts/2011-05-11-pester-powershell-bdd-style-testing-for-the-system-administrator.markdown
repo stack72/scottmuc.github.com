@@ -24,7 +24,7 @@ First step is to setup a project. Mike (as he now likes be known as) decides to 
 Setting up Pester is simply a matter of following the instructions at PsGet (author Mike Chaliy has tons of great PowerShell modules)then running Install-Pester. Then running Import-Module Pester anytime you open up a PowerShell session where you want to use Pester. The console should look like the following:
 
 <pre>
-§ MIKE-PC {C:\d\IDeploy} (new-object Net.WebClient).DownloadString("http://bit.ly/GetPsGet") | iex
+SMUC-PC {C:\d\IDeploy} (new-object Net.WebClient).DownloadString("http://bit.ly/GetPsGet") | iex
 Downloading PsGet from https://github.com/chaliy/psget/raw/master/PsGet/PsGet.psm1
 PsGet is installed and ready to use
 USAGE:
@@ -34,11 +34,11 @@ USAGE:
 For more details:
     get-help install-module
 Or visit http://psget.net
-§ MIKE-PC {C:\d\IDeploy} import-module PsGet
-§ MIKE-PC {C:\d\IDeploy} install-module Pester
+SMUC-PC {C:\d\IDeploy} import-module PsGet
+SMUC-PC {C:\d\IDeploy} install-module Pester
 Module Pester was successfully installed.
-§ MIKE-PC {C:\d\IDeploy} import-module Pester
-§ MIKE-PC {C:\d\IDeploy} Get-Module
+SMUC-PC {C:\d\IDeploy} import-module Pester
+SMUC-PC {C:\d\IDeploy} Get-Module
 
 ModuleType Name                      ExportedCommands
 ---------- ----                      ----------------
@@ -50,7 +50,7 @@ Script     Pester                    {It, Describe, New-Fixture, Invoke-Pester..
 Pester includes a helper function called Create-Fixture. Calling the function with no args looks like the following:
 
 <pre>
-§ MIKE-PC {C:\d\IDeploy} Create-Fixture
+SMUC-PC {C:\d\IDeploy} Create-Fixture
 invalid usage, please specify (path, name)
 eg: .\Create-Fixture -Path Foo -Name Bar
 creates .\Foo\Bar.ps1 and .\Foo.Bar.Tests.ps1
@@ -61,7 +61,7 @@ Create-Fixture wants to know what the path of your function is going to be and w
 Armed with a quick way to create fixtures Michael runs his Create-Fixture to scaffold his feature. He decides he wants it to be called Ensure-AspNetDebugIsFalse and places it in the Deploy\Functions directory of his project.
 
 <pre>
-§ MIKE-PC {C:\d\IDeploy} Create-Fixture Deploy\Functions Ensure-AspNetDebugIsFalse
+SMUC-PC {C:\d\IDeploy} Create-Fixture Deploy\Functions Ensure-AspNetDebugIsFalse
 Creating => Deploy\Functions\Ensure-AspNetDebugIsFalse.ps1
 Creating => Deploy\Functions\Ensure-AspNetDebugIsFalse.Tests.ps1
 </pre>
@@ -69,7 +69,7 @@ Creating => Deploy\Functions\Ensure-AspNetDebugIsFalse.Tests.ps1
 Wanting to see some red he runs the tests by running Invoke-Pester which loads all files that match \*.Tests.ps1 recursively in the current directory.
 
 <pre>
-§ SMUCS-PC {C:\d\IDeploy} Invoke-Pester
+SMUCS-PC {C:\d\IDeploy} Invoke-Pester
 Executing all tests in C:\dev\IDeploy\Deploy
 Describing Ensure-AspNetDebugIsFalse
 does something useful
@@ -141,7 +141,7 @@ function Ensure-AspNetDebugIsFalse($websitePath) {
 and the execution of the test:
 
 <pre>
-§ MIKE-PC {C:\d\IDeploy} Invoke-Pester
+SMUC-PC {C:\d\IDeploy} Invoke-Pester
 Executing all tests in C:\dev\IDeploy\Deploy
 Describing Ensure-AspNetDebugIsFalse
 switches debug attribute to false for a web.config in a given website path
