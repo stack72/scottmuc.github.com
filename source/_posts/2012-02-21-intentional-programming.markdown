@@ -14,6 +14,8 @@ to declare every variable of my shot. Not just what ball and pocket I'm targetin
 and how it will carom off of every rail, and to predict where the cue ball will end up. By doing this it revealed so much more of the game
 to me. As a novice, your primary concern is potting balls. But to be good, you need be in control of everything on the table.
 
+<!-- more -->
+
 I like to apply this to software development. While watching Kent Beck's [TDD screencast](http://pragprog.com/screencasts/v-kbtdd/test-driven-development)
 I heard him label this kind of thing as calling yours shots. I absolutely love that term for it and can't believe I never thought of naming it that 
 before! Ultimately, calling your shots is like this:
