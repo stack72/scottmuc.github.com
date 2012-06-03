@@ -11,7 +11,7 @@ about something that's been in the back of my mind for while now.
 Back in the day I used to play 8-ball on a fairly regular basis. I would play with a regular group of friends who would all work on
 improving our game. One of the players was nearly a professional and provided me one training tip that helps me everyday. He would ask me
 to declare every variable of my shot. Not just what ball and pocket I'm targeting, but what trajectory the cue ball will take after contact
-and how it will carrom off of every rail, and to predict where the cue ball will end up. By doing this it revealed so much more of the game
+and how it will carom off of every rail, and to predict where the cue ball will end up. By doing this it revealed so much more of the game
 to me. As a novice, your primary concern is potting balls. But to be good, you need be in control of everything on the table.
 
 I like to apply this to software development. While watching Kent Beck's [TDD screencast](http://pragprog.com/screencasts/v-kbtdd/test-driven-development)
