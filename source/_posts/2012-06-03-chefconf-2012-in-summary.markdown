@@ -5,9 +5,9 @@ date: 2012-06-03 21:07
 comments: true
 categories: 
 ---
-This is a little late coming but figured I should post anyways. ChefConf 2012
+This is a little late coming but figured I should post anyways. [ChefConf 2012] (http://chefconf.opscode.com/)
 was an amazing event and absolutely surprising considering it's the first
-conference Opscode has put on. Here are a few things that I noticed:
+conference [Opscode](http://www.opscode.com/) has put on. Here are a few things that I noticed:
 
 ### Culture
 
@@ -24,7 +24,7 @@ many of the people did there.
 ### Demand
 
 I was hoping to find some excited chefs out there that would love to work for
-ThoughtWorks but it seemed everyone was doing the same. Attempts to recruit me
+[ThoughtWorks](http://join.thoughtworks.com/) but it seemed everyone was doing the same. Attempts to recruit me
 occured as I was trying to recruit them! This is definitely a hot part of the
 software industry.
 
@@ -35,7 +35,7 @@ positions and projects.
 ### Sessions of Note
 
 Since I have a significant Windows background, I was really interested in the
-two talks given by the folks from Ancestry.com. The first one was a high level
+two talks given by the folks from [Ancestry.com](http://www.ancestry.com/). The first one was a high level
 summary of Ancenstry's path to Continuous Delivery. John Esser articulated the
 principles well and was pleasantly surprised to see him promote ThoughtWorks
 Studios' product Go
