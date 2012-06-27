@@ -5,14 +5,14 @@ date: 2012-06-08 17:03
 comments: true
 categories:
 ---
-Today I witnessed a few interesting build breakages that we caught in [CI](http://wikipedia.org/Continuous_Integration)
-that could have easily gotten passed our automated quality gates, and would have hurt us in downstream
+On a previous project, I witnessed a few interesting build breakages that we caught in [CI](http://wikipedia.org/Continuous_Integration)
+that could have easily gotten passed our automated quality gates. These issues would have hurt us in downstream
 environments.
 
 It's commonly referenced in the [Continuous Delivery](http://continuousdelivery.com/) book that development
 environments should be as close to production like as possible. This might not
 be 100% possible but you can come close. What can come that close is your
-system integration test environment. On a previous project we had a typical
+system integration test environment. On this project we had a typical
 web application architecture: web server, database server, and a load balancer
 to support multiple web servers. Here are a couple integration failures that we experienced:
 
