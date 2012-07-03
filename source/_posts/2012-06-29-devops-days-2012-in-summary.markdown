@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devops Days 2012"
+title: "Devops Days 2012 in Summary"
 date: 2012-06-29 17:08
 comments: true
 categories: 
@@ -12,7 +12,7 @@ here is a summary of what I experienced:
 
 ## Day 1
 
-### The Audubon Society for Partial Failures
+#### The Audubon Society for Partial Failures
 
 The first [presentation](http://cl.ly/2t1J0H1M3b2O092a1v1S) was done by [Cliff Moon][cliff-moon-twitter]. He argues
 that there are many common patterns in the IT space and it would be valuable
@@ -34,7 +34,7 @@ simply be because that person understands the conventions of the system at
 work. Creating this taxonomy could help in revealing the shaman's "secrets" and
 allow for everyone to weave a little magic.
 
-### Continuous Improvement
+#### Continuous Improvement
 
 [Noah Sussman][noah-sussman-twitter] is a test architect at Etsy and he
 [presented][continous-improvement-slides] on how Continuous Deployment and
@@ -47,7 +47,7 @@ to this model. A change in testing strategy is a significant barrier to entry
 for most large companies. Even if the devs and ops teams are collaborating,
 they can't deliver anything unless it gets passed the quality gates.
 
-### Vagrant 2.0
+#### Vagrant 2.0
 
 I got a chance to meet [Mitchell Hashimoto][mitchell-hashimoto-twitter],
 creator of a tool that I've been enjoying quite a bit lately,
@@ -72,7 +72,7 @@ level of confidence in configuration management scripting.
 
 ## Day 2
 
-### Gauntlt and bridging the gap between security and everyone
+#### Gauntlt and bridging the gap between security and everyone
 
 [James Wickett][james-wickett-twitter], a security consultant, discussed how security is feeling left
 out in this crazy world of Continuous Integration, Testing, and Delivery.
@@ -90,7 +90,7 @@ team. I am no security expert, but I believe there's a gap in security knowledge
 in the software industry. Hopefully by integrating gauntlt into future projects
 I can provide some feedback to make the tool more useful.
 
-### Continuous Delivery at Ancestry.com
+#### Continuous Delivery at Ancestry.com
 
 I posted my thoughts on a similar presentation at [Chef Conf][chef-conf-post] and again John
 delivered an excellent presentation on the values of culture and delivery focus
@@ -102,9 +102,9 @@ open sourcing his robust solution to dealing with Windows configuration
 management using PowerShell and Chef. Hopefully we'll have some of that
 knowledge in a project in github soon.
 
-### Automating Application Configuration Deployment
+#### Automating Application Configuration Deployment
 
-[Dan Nemec][dan-demec-twitter] delivered a presentation that is very near and dear to my heart.
+[Dan Nemec][dan-nemec-twitter] delivered a presentation that is very near and dear to my heart.
 Application configuration management can be messy if left to people who do not
 have visibility into all the systems that are in play. He brought a system that
 required 400+ configuration files to a 2 file system. The 400+ files still
@@ -119,7 +119,7 @@ of an environment and all its configuration.
 
 You can read more about Dan's thoughts on this on his [blog](http://blog.geeksgonemad.com/2012/05/automating-application-configuration.html).
 
-### Where Does SmallOps Fit In
+#### Where Does SmallOps Fit In
 
 This session was very relevant to me as someone who has been working on a small
 team for the last few months. [Matthew Kocher][matthew-kocher-twitter]
@@ -131,7 +131,7 @@ most of the people in the room didn't quite know what to do with SmallOps. How
 do you manage 20 servers and not complicate the infrastructure
 management?
 
-### Devops as a role on projects
+#### Devops as a role on projects
 
 This topic, I love in principle, but do a horrible job in practice. There's
 no such thing as a "DevOps Engineer", it's just a mindset. This is where
@@ -142,7 +142,7 @@ sports you still have specialists, but they work has a cohesive unit. In
 football, there's no reason a defense person can't score a goal. Their focus
 is on the defense of their goal but
 
-### What Am I Going To Do Now?
+#### What Am I Going To Do Now?
 
 It really hit home to me after this Devops Days how I am doing a lot of things
 wrong in the mission to bridge these gaps.
