@@ -139,8 +139,9 @@ the cultural message is most important. DevOps is about transforming
 organisations to remove silos. Jamie who brought up the open space likened
 a software delivery team to a sports team (again, I love the analogies). With
 sports you still have specialists, but they work has a cohesive unit. In
-football, there's no reason a defense person can't score a goal. Their focus
-is on the defense of their goal but
+football, there's no reason a defense person can't score a goal. If you have
+a team where offensive players begin blaming defense for their lack of success
+you then have a disfunctional team.
 
 #### What Am I Going To Do Now?
 
