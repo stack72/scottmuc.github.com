@@ -83,6 +83,7 @@ crucial for making remoting work on a larger scale.
 
 ### Summary
 
-The last few years I've learned a lot about managing my goals. I'm doing my best to keep my goals SMART so that I can
-actually achieve them. We'll see how things turn out 365 days from now!
+The last few years I've learned a lot about managing my goals. I'm doing my best to keep my goals
+[SMART](http://en.wikipedia.org/wiki/SMART_criteria) so that I can actually achieve them. We'll see how things turn
+out 365 days from now!
 
