@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PowerShell Pester 2 and 1.2 Released"
+title: "PowerShell Pester 2 and 1.2 Released!"
 date: 2013-02-02 15:34
 comments: true
 categories:
