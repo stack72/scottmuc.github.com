@@ -29,7 +29,7 @@ the top. Pairing is represented by sharks eating the same piece of meat. If a sh
 
 1. [Draw sharks](http://www.youtube.com/watch?v=gfydvDUncbY) representing each person on the team.
 2. Put [blu tack](http://en.wikipedia.org/wiki/Blu-Tack) on the back of the sharks.
-3. Draw the surface of the water, this is wear work will get done.
+3. Draw the surface of the water, this is where work will get done.
 4. Put stickies in the tank representing work that needs to get done.
 5. As the sharks eat the stickies, let the next level of stickies float on up.
 
