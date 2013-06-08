@@ -5,20 +5,24 @@ fun
 fun
 fun
 
-lots of hard work
-lots of hard work
-lots of hard work
+"hard work"
+"hard work"
+"hard work"
 
-diversity and culture
-diversity and culture
-diversity and culture
-diversity and culture
+"diversity and culture"
+"diversity and culture"
+"diversity and culture"
+"diversity and culture"
 
-fail fast
-fail fast
-fail fast
-fail fast
-fail fast
+"fail fast"
+"fail fast"
+"fail fast"
+"fail fast"
+"fail fast"
+
+friendship
+friendship
+friendship
 
 feedback
 feedback
@@ -40,6 +44,5 @@ passion
 coaches
 coaches
 coaches
-
 
 curiosity curiosity curiosity curiosity curiosity
