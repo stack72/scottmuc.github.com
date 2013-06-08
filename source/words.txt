@@ -5,20 +5,20 @@ fun
 fun
 fun
 
-"hard-work"
-"hard-work"
-"hard-work"
+"hardwork"
+"hardwork"
+"hardwork"
 
-"diversity and culture"
-"diversity and culture"
-"diversity and culture"
-"diversity and culture"
+diversity
+diversity
+diversity
+diversity
 
-"fail fast"
-"fail fast"
-"fail fast"
-"fail fast"
-"fail fast"
+"failfast"
+"failfast"
+"failfast"
+"failfast"
+"failfast"
 
 friendship
 friendship
@@ -30,13 +30,17 @@ feedback
 feedback
 feedback
 
-team work
-team work
-team work
-team work
+india
+india
+india
 
-personal growth
-personal growth
+teamwork
+teamwork
+teamwork
+teamwork
+
+personal
+personal
 
 passion
 passion
