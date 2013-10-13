@@ -24,8 +24,8 @@ Baseline stats:
 * Oct 9 - 31min jog on San Antonio Riverwalk
 * Oct 10 - hungover from previous night :-(
 * Oct 11 - 30min hill exercise on treadmill
-* Oct 12 -
-* Oct 13 -
+* Oct 12 - slack day. 2 tabatas (situps, and supermans)
+* Oct 13 - 4mile run in 49min. Incline of 1.5 and did an even pace of 5.2mph (6.0mpg for the final 1/2 mile)
 * Oct 14 -
 * Oct 15 -
 * Oct 16 -
