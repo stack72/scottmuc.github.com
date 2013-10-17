@@ -26,9 +26,9 @@ Baseline stats:
 * Oct 11 - 30min hill exercise on treadmill
 * Oct 12 - slack day. 2 tabatas (situps, and supermans)
 * Oct 13 - 4mile run in 49min. Incline of 1.5 and did an even pace of 5.2mph (6.0mpg for the final 1/2 mile)
-* Oct 14 -
-* Oct 15 -
-* Oct 16 -
+* Oct 14 - 45min of p90x yoga (used to be able to do all 90min of it. Had to skip the hard stuff)
+* Oct 15 - 20min run 5.1mph up to 6.1mph include of 2
+* Oct 16 - lazy day
 * Oct 17 -
 * Oct 18 -
 * Oct 19 -
