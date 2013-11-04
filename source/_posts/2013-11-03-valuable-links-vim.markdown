@@ -19,7 +19,7 @@ As opposed to using a bookmarking website.
 ## Valuable Links for Vim
 
 I would say I'm a moderate [Vim](http://www.vim.org/) user. I have a simple `.vimrc` with few plugins. Learning
-to be compotent at `vim` has made my computing experience so much better. Here are a few
+to be competent at `vim` has made my computing experience so much better. Here are a few
 websites that have helped me out:
 
 * [Vim Primer][vim-primer] - I can't think of a more thorough primer. Even after knowing
